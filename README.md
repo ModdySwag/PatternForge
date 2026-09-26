@@ -25,13 +25,15 @@ https://moddys.net/packs/, `three@0.147.0` plus three GLB rigs from threejs.org 
 
 ## Screenshots
 
-The Windows build, captured from the app itself:
+The Windows build, captured from the app itself — the full set (eleven shots) is in the gallery at
+[moddys.net/forge/shots.html](https://moddys.net/forge/shots.html):
 
-![Pattern Forge — the workstation: the track list, step grids, live code and the dancer](screenshots/patternforge-workstation.jpg)
-![Pattern Forge — the SOUND desk and the 61-key piano dock](screenshots/patternforge-keys.jpg)
-![Pattern Forge — the mixer](screenshots/patternforge-mixer.jpg)
-![Pattern Forge — the export desk: WAV, Opus, stems, MIDI and a DAW kit](screenshots/patternforge-export.jpg)
-![Pattern Forge — the 3D dancer in its own window](screenshots/patternforge-dancer.jpg)
+![Pattern Forge — the workstation: tracks, the step sequencer, the SOUND desk, live code and the piano dock](screenshots/patternforge-workstation.jpg)
+![Pattern Forge — the SOUND desk opened on SYNTH: voice and patch, the performance mix, scenes, microtuning, the mod matrix](screenshots/patternforge-synth-desk.jpg)
+![Pattern Forge — the desk's MIX blend: the pattern and the live synth over it](screenshots/patternforge-desk-mix.jpg)
+![Pattern Forge — the desk closed to its bar; the workspace keeps the room](screenshots/patternforge-desk-closed.jpg)
+![Pattern Forge — the mixer: every track's gain, pan, delay and reverb, plus the master strip](screenshots/patternforge-mixer.jpg)
+![Pattern Forge — the recorder: master or stems, WAV or WebM/Opus](screenshots/patternforge-rec.jpg)
 
 ## Files
 
