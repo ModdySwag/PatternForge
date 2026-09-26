@@ -23,6 +23,16 @@ sample maps (dough-samples, uzu-drumkit, todepond, felixroos soundfonts), the pa
 https://moddys.net/packs/, `three@0.147.0` plus three GLB rigs from threejs.org for the dancer, and
 — only if you switch Kody on — the OpenAI endpoint you configure.
 
+## Screenshots
+
+The Windows build, captured from the app itself:
+
+![Pattern Forge — the workstation: the track list, step grids, live code and the dancer](screenshots/patternforge-workstation.jpg)
+![Pattern Forge — the SOUND desk and the 61-key piano dock](screenshots/patternforge-keys.jpg)
+![Pattern Forge — the mixer](screenshots/patternforge-mixer.jpg)
+![Pattern Forge — the export desk: WAV, Opus, stems, MIDI and a DAW kit](screenshots/patternforge-export.jpg)
+![Pattern Forge — the 3D dancer in its own window](screenshots/patternforge-dancer.jpg)
+
 ## Files
 
 - `index.html` — the app (double-click to open; a browser + internet connection needed for the engine)
