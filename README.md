@@ -7,7 +7,7 @@ Full GUI music-generation interface built on the [Strudel](https://strudel.cc) e
 hand-written HTML/CSS/JS in `src/`, no framework and no bundler beyond its own `build.py`.
 
 - Live app: **https://moddys.net/forge/** (free, in the browser)
-- Windows app: **the 1.0d beta** — download the installer from
+- Windows app: **the 1.0e beta** — download the installer from
   [moddys.net/moddys-downloads.html](https://moddys.net/moddys-downloads.html) or
   [Releases](https://github.com/ModdySwag/PatternForge/releases); each build ships with its
   corresponding source.
